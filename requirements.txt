@@ -1,0 +1,6 @@
+flask
+torch
+torchaudio
+transformers
+coqui-ai-tts
+pydub
